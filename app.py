@@ -20,7 +20,6 @@ except Exception as e:
 users_collection = db['users']
 
 
-
 @app.route('/')
 def hello_world():
     return 'Hello, World!'
