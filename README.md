@@ -1,7 +1,7 @@
 
 # # Тестовое задание для практического курса MVP connect на бесплатное место.
 
-This project is a server application built with either Flask (Python) or Express (NodeJS), which utilizes a MongoDB database to store and manage user data. The main purpose of this application is to demonstrate the use of Flask/Express with MongoDB integration and user authentication.
+This project is a server application built with either Flask (Python), which utilizes a MongoDB database to store and manage user data. The main purpose of this application is to demonstrate the use of Flask/Express with MongoDB integration and user authentication.
 
 ## Getting Started
 
